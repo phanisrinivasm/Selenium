@@ -1,3 +1,3 @@
 # Selenium
 
-This is about my selenium practice programs
+This is about my selenium practice programs.
